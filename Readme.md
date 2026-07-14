@@ -4,7 +4,7 @@ Uso de la IA para resolución de prueba técnica
 
 **Bloque 0**
 
-
+Preguntas a la IA trabajando los archivos CSV
 
 * ¿Qué porcentaje de transacciones no tiene customer\_id ? ¿Es consistente con loyalty\_card = FALSE ?
 
