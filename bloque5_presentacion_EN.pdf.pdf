@@ -1,0 +1,870 @@
+%PDF-1.4
+1 0 obj
+<< /Length 2681 >>
+stream
+0.000 0.325 0.886 rg
+0.0 552.0 792.0 60.0 re f
+1.000 0.761 0.125 rg
+0.0 546.0 792.0 6.0 re f
+BT
+1.000 1.000 1.000 rg
+/F2 11 Tf
+34.0 574.0 Td
+(Walmart Operations Dashboard) Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 20 Tf
+34.0 558.0 Td
+(1. Executive Summary) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+715.0 574.0 Td
+() Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 10 Tf
+716.0 558.0 Td
+(1/5) Tj
+ET
+0.961 0.969 0.980 rg
+0.0 0.0 792.0 28.0 re f
+BT
+0.180 0.184 0.196 rg
+/F1 8 Tf
+34.0 10.0 Td
+(Source: Bloque 1 SQL outputs and local CSV model | Currency: USD-style synthetic data) Tj
+ET
+1.000 1.000 1.000 rg
+34.0 420.0 170.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+34.0 420.0 170.0 86.0 re S
+0.000 0.325 0.886 rg
+34.0 499.0 170.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+48.0 479.0 Td
+(LATEST NET GMV) Tj
+ET
+BT
+0.000 0.325 0.886 rg
+/F2 22 Tf
+48.0 448.0 Td
+($87,108) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+48.0 434.0 Td
+(-85.7% WoW) Tj
+ET
+1.000 1.000 1.000 rg
+220.0 420.0 170.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+220.0 420.0 170.0 86.0 re S
+0.918 0.067 0.000 rg
+220.0 499.0 170.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+234.0 479.0 Td
+(STORES BELOW P25) Tj
+ET
+BT
+0.918 0.067 0.000 rg
+/F2 22 Tf
+234.0 448.0 Td
+(13) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+234.0 434.0 Td
+(GMV/m² alert) Tj
+ET
+1.000 1.000 1.000 rg
+406.0 420.0 170.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+406.0 420.0 170.0 86.0 re S
+0.918 0.067 0.000 rg
+406.0 499.0 170.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+420.0 479.0 Td
+(LOST GMV) Tj
+ET
+BT
+0.918 0.067 0.000 rg
+/F2 22 Tf
+420.0 448.0 Td
+($47,958,315) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+420.0 434.0 Td
+(315,383 stock-out gaps) Tj
+ET
+1.000 1.000 1.000 rg
+592.0 420.0 166.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+592.0 420.0 166.0 86.0 re S
+1.000 0.761 0.125 rg
+592.0 499.0 166.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+606.0 479.0 Td
+(LOW GMROI) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+606.0 448.0 Td
+(120) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+606.0 434.0 Td
+(vendor-category rows) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 355.0 Td
+(? Net GMV was $87,108 in the latest week, with -85.7% vs. previous week.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 331.0 Td
+(? 13 stores are below the P25 productivity level and need a clear recovery) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 313.0 Td
+(  plan.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 289.0 Td
+(? Stock-outs are the largest risk: estimated lost GMV is $47,958,315.) Tj
+ET
+0.961 0.969 0.980 rg
+34.0 70.0 724.0 70.0 re f
+BT
+0.000 0.325 0.886 rg
+/F2 13 Tf
+54.0 112.0 Td
+(Executive message) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+54.0 88.0 Td
+(Focus first on store productivity, stock availability, and vendor profitability.) Tj
+ET
+endstream
+endobj
+2 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 1 0 R >>
+endobj
+3 0 obj
+<< /Length 2342 >>
+stream
+0.000 0.325 0.886 rg
+0.0 552.0 792.0 60.0 re f
+1.000 0.761 0.125 rg
+0.0 546.0 792.0 6.0 re f
+BT
+1.000 1.000 1.000 rg
+/F2 11 Tf
+34.0 574.0 Td
+(Walmart Operations Dashboard) Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 20 Tf
+34.0 558.0 Td
+(2. Store Performance) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+715.0 574.0 Td
+() Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 10 Tf
+716.0 558.0 Td
+(2/5) Tj
+ET
+0.961 0.969 0.980 rg
+0.0 0.0 792.0 28.0 re f
+BT
+0.180 0.184 0.196 rg
+/F1 8 Tf
+34.0 10.0 Td
+(Source: Bloque 1 SQL outputs and local CSV model | Currency: USD-style synthetic data) Tj
+ET
+1.000 1.000 1.000 rg
+48.0 430.0 300.0 82.0 re f
+0.824 0.843 0.863 RG
+1 w
+48.0 430.0 300.0 82.0 re S
+0.165 0.529 0.012 rg
+48.0 505.0 300.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+62.0 485.0 Td
+(BEST COMP SALES) Tj
+ET
+BT
+0.165 0.529 0.012 rg
+/F2 22 Tf
+62.0 454.0 Td
+(CR EXPRESS) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+62.0 444.0 Td
+(23.3%) Tj
+ET
+1.000 1.000 1.000 rg
+444.0 430.0 300.0 82.0 re f
+0.824 0.843 0.863 RG
+1 w
+444.0 430.0 300.0 82.0 re S
+0.918 0.067 0.000 rg
+444.0 505.0 300.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+458.0 485.0 Td
+(WEAKEST COMP SALES) Tj
+ET
+BT
+0.918 0.067 0.000 rg
+/F2 22 Tf
+458.0 454.0 Td
+(GT DESCUENTO) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+458.0 444.0 Td
+(-1.2%) Tj
+ET
+BT
+0.000 0.325 0.886 rg
+/F2 15 Tf
+54.0 365.0 Td
+(Comp Sales view for Power BI) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F2 10 Tf
+70.0 324.0 Td
+(Best segment) Tj
+ET
+0.961 0.969 0.980 rg
+230.0 320.0 260.0 12.0 re f
+0.165 0.529 0.012 rg
+230.0 320.0 202.1 12.0 re f
+BT
+0.180 0.184 0.196 rg
+/F1 10 Tf
+500.0 322.0 Td
+(23.3%) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F2 10 Tf
+70.0 289.0 Td
+(Weakest segment) Tj
+ET
+0.961 0.969 0.980 rg
+230.0 285.0 260.0 12.0 re f
+0.918 0.067 0.000 rg
+230.0 285.0 10.6 12.0 re f
+BT
+0.180 0.184 0.196 rg
+/F1 10 Tf
+500.0 287.0 Td
+(-1.2%) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 230.0 Td
+(? Use country, format, region, and date filters to explain the difference) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 212.0 Td
+(  between markets.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 188.0 Td
+(? Rank stores by GMV per square meter inside each format, not only by total) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 170.0 Td
+(  GMV.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 146.0 Td
+(? Stores below P25 should be colored red automatically in the ranking visual.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 2354 >>
+stream
+0.000 0.325 0.886 rg
+0.0 552.0 792.0 60.0 re f
+1.000 0.761 0.125 rg
+0.0 546.0 792.0 6.0 re f
+BT
+1.000 1.000 1.000 rg
+/F2 11 Tf
+34.0 574.0 Td
+(Walmart Operations Dashboard) Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 20 Tf
+34.0 558.0 Td
+(3. Opportunities) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+715.0 574.0 Td
+() Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 10 Tf
+716.0 558.0 Td
+(3/5) Tj
+ET
+0.961 0.969 0.980 rg
+0.0 0.0 792.0 28.0 re f
+BT
+0.180 0.184 0.196 rg
+/F1 8 Tf
+34.0 10.0 Td
+(Source: Bloque 1 SQL outputs and local CSV model | Currency: USD-style synthetic data) Tj
+ET
+1.000 1.000 1.000 rg
+48.0 420.0 210.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+48.0 420.0 210.0 86.0 re S
+0.918 0.067 0.000 rg
+48.0 499.0 210.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+62.0 479.0 Td
+(UNDERPERFORMING STORES) Tj
+ET
+BT
+0.918 0.067 0.000 rg
+/F2 22 Tf
+62.0 448.0 Td
+(13) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+62.0 434.0 Td
+(below P25) Tj
+ET
+1.000 1.000 1.000 rg
+291.0 420.0 210.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+291.0 420.0 210.0 86.0 re S
+1.000 0.761 0.125 rg
+291.0 499.0 210.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+305.0 479.0 Td
+(LOW GMROI GROUPS) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+305.0 448.0 Td
+(120) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+305.0 434.0 Td
+(GMROI < 1.0) Tj
+ET
+1.000 1.000 1.000 rg
+534.0 420.0 210.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+534.0 420.0 210.0 86.0 re S
+0.000 0.325 0.886 rg
+534.0 499.0 210.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+548.0 479.0 Td
+(M3 RETENTION) Tj
+ET
+BT
+0.000 0.325 0.886 rg
+/F2 22 Tf
+548.0 448.0 Td
+(50.0%) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+548.0 434.0 Td
+(newest cohort) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 348.0 Td
+(? Operations can recover 13 stores with weekly productivity actions.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 324.0 Td
+(? Merchandising should review 120 vendor-category groups with poor capital) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 306.0 Td
+(  return.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 282.0 Td
+(? Loyalty cohorts show M3 retention at 50.0%; this can guide targeted) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 264.0 Td
+(  campaigns.) Tj
+ET
+BT
+0.000 0.325 0.886 rg
+/F2 13 Tf
+54.0 142.0 Td
+(Dashboard visual) Tj
+ET
+0.961 0.969 0.980 rg
+54.0 92.0 640.0 28.0 re f
+0.000 0.325 0.886 rg
+54.0 92.0 320.0 28.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 11 Tf
+710.0 100.0 Td
+(50.0%) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2337 >>
+stream
+0.000 0.325 0.886 rg
+0.0 552.0 792.0 60.0 re f
+1.000 0.761 0.125 rg
+0.0 546.0 792.0 6.0 re f
+BT
+1.000 1.000 1.000 rg
+/F2 11 Tf
+34.0 574.0 Td
+(Walmart Operations Dashboard) Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 20 Tf
+34.0 558.0 Td
+(4. Risks) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+715.0 574.0 Td
+() Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 10 Tf
+716.0 558.0 Td
+(4/5) Tj
+ET
+0.961 0.969 0.980 rg
+0.0 0.0 792.0 28.0 re f
+BT
+0.180 0.184 0.196 rg
+/F1 8 Tf
+34.0 10.0 Td
+(Source: Bloque 1 SQL outputs and local CSV model | Currency: USD-style synthetic data) Tj
+ET
+1.000 1.000 1.000 rg
+48.0 425.0 220.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+48.0 425.0 220.0 86.0 re S
+0.918 0.067 0.000 rg
+48.0 504.0 220.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+62.0 484.0 Td
+(STOCK-OUT IMPACT) Tj
+ET
+BT
+0.918 0.067 0.000 rg
+/F2 22 Tf
+62.0 453.0 Td
+($25,196,741) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+62.0 439.0 Td
+(Electrónica) Tj
+ET
+1.000 1.000 1.000 rg
+286.0 425.0 220.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+286.0 425.0 220.0 86.0 re S
+1.000 0.761 0.125 rg
+286.0 504.0 220.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+300.0 484.0 Td
+(MISSING CUSTOMER ID) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+300.0 453.0 Td
+(59.8%) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+300.0 439.0 Td
+(loyalty data risk) Tj
+ET
+1.000 1.000 1.000 rg
+524.0 425.0 220.0 86.0 re f
+0.824 0.843 0.863 RG
+1 w
+524.0 425.0 220.0 86.0 re S
+0.000 0.325 0.886 rg
+524.0 504.0 220.0 7.0 re f
+BT
+0.180 0.184 0.196 rg
+/F2 8 Tf
+538.0 484.0 Td
+(NON-COMPLETED TX) Tj
+ET
+BT
+0.000 0.325 0.886 rg
+/F2 22 Tf
+538.0 453.0 Td
+(2.0%) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 9 Tf
+538.0 439.0 Td
+(excluded from KPIs) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 350.0 Td
+(? Stock-out risk is material: Electrónica has $25,196,741 estimated lost GMV.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 326.0 Td
+(? Missing customer IDs affect 59.8% of transactions and reduce retention) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 308.0 Td
+(  quality.) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 284.0 Td
+(? Non-completed transactions represent 2.0% of records and must stay) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+70.0 266.0 Td
+(  excluded.) Tj
+ET
+0.918 0.067 0.000 rg
+54.0 92.0 684.0 44.0 re f
+BT
+1.000 1.000 1.000 rg
+/F2 12 Tf
+72.0 109.0 Td
+(Risk rule: do not scale recommendations without weekly refresh and data quality checks.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 2312 >>
+stream
+0.000 0.325 0.886 rg
+0.0 552.0 792.0 60.0 re f
+1.000 0.761 0.125 rg
+0.0 546.0 792.0 6.0 re f
+BT
+1.000 1.000 1.000 rg
+/F2 11 Tf
+34.0 574.0 Td
+(Walmart Operations Dashboard) Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 20 Tf
+34.0 558.0 Td
+(5. Recommendations) Tj
+ET
+BT
+1.000 0.761 0.125 rg
+/F2 22 Tf
+715.0 574.0 Td
+() Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 10 Tf
+716.0 558.0 Td
+(5/5) Tj
+ET
+0.961 0.969 0.980 rg
+0.0 0.0 792.0 28.0 re f
+BT
+0.180 0.184 0.196 rg
+/F1 8 Tf
+34.0 10.0 Td
+(Source: Bloque 1 SQL outputs and local CSV model | Currency: USD-style synthetic data) Tj
+ET
+0.000 0.325 0.886 rg
+48.0 448.0 696.0 36.0 re f
+BT
+1.000 1.000 1.000 rg
+/F2 12 Tf
+66.0 461.0 Td
+(Owner) Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 12 Tf
+238.0 461.0 Td
+(Action) Tj
+ET
+BT
+1.000 1.000 1.000 rg
+/F2 12 Tf
+640.0 461.0 Td
+(When) Tj
+ET
+0.961 0.969 0.980 rg
+48.0 392.0 696.0 42.0 re f
+0.824 0.843 0.863 RG
+1 w
+48.0 392.0 696.0 42.0 re S
+BT
+0.000 0.325 0.886 rg
+/F2 11 Tf
+66.0 407.0 Td
+(Operations) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 11 Tf
+238.0 407.0 Td
+(Recover 13 stores below P25) Tj
+ET
+BT
+0.918 0.067 0.000 rg
+/F2 11 Tf
+640.0 407.0 Td
+(30 days) Tj
+ET
+1.000 1.000 1.000 rg
+48.0 340.0 696.0 42.0 re f
+0.824 0.843 0.863 RG
+1 w
+48.0 340.0 696.0 42.0 re S
+BT
+0.000 0.325 0.886 rg
+/F2 11 Tf
+66.0 355.0 Td
+(Merchandising) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 11 Tf
+238.0 355.0 Td
+(Review 120 low-GMROI groups) Tj
+ET
+BT
+0.165 0.529 0.012 rg
+/F2 11 Tf
+640.0 355.0 Td
+(45 days) Tj
+ET
+0.961 0.969 0.980 rg
+48.0 288.0 696.0 42.0 re f
+0.824 0.843 0.863 RG
+1 w
+48.0 288.0 696.0 42.0 re S
+BT
+0.000 0.325 0.886 rg
+/F2 11 Tf
+66.0 303.0 Td
+(Supply Chain) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 11 Tf
+238.0 303.0 Td
+(Fix top 500 stock-out gaps) Tj
+ET
+BT
+0.918 0.067 0.000 rg
+/F2 11 Tf
+640.0 303.0 Td
+(14 days) Tj
+ET
+1.000 1.000 1.000 rg
+48.0 236.0 696.0 42.0 re f
+0.824 0.843 0.863 RG
+1 w
+48.0 236.0 696.0 42.0 re S
+BT
+0.000 0.325 0.886 rg
+/F2 11 Tf
+66.0 251.0 Td
+(Analytics) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 11 Tf
+238.0 251.0 Td
+(Publish Power BI dashboard) Tj
+ET
+BT
+0.165 0.529 0.012 rg
+/F2 11 Tf
+640.0 251.0 Td
+(7 days) Tj
+ET
+0.961 0.969 0.980 rg
+54.0 95.0 684.0 64.0 re f
+BT
+0.000 0.325 0.886 rg
+/F2 13 Tf
+72.0 128.0 Td
+(Expected outcome) Tj
+ET
+BT
+0.180 0.184 0.196 rg
+/F1 12 Tf
+72.0 106.0 Td
+(Reduce the $47,958,315 lost GMV pool and improve GMV/m² visibility weekly.) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+12 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+13 0 obj
+<< /Type /Pages /Kids [2 0 R 4 0 R 6 0 R 8 0 R 10 0 R] /Count 5 >>
+endobj
+14 0 obj
+<< /Type /Catalog /Pages 13 0 R >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000009 00000 n 
+0000002742 00000 n 
+0000002881 00000 n 
+0000005275 00000 n 
+0000005414 00000 n 
+0000007820 00000 n 
+0000007959 00000 n 
+0000010348 00000 n 
+0000010487 00000 n 
+0000012851 00000 n 
+0000012991 00000 n 
+0000013062 00000 n 
+0000013138 00000 n 
+0000013221 00000 n 
+trailer << /Size 15 /Root 14 0 R >>
+startxref
+13272
+%%EOF

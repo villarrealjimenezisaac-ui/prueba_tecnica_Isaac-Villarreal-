@@ -1,0 +1,1244 @@
+{
+  "period": {
+    "start": "2024-01-01",
+    "end": "2025-06-30"
+  },
+  "seasonality": {
+    "sensitivity": [
+      {
+        "format": "EXPRESS",
+        "cv": 0.2408872869047111,
+        "avg_weekly_gmv": 27684.14936708861
+      },
+      {
+        "format": "DESCUENTO",
+        "cv": 0.1585622652836392,
+        "avg_weekly_gmv": 113876.25936708861
+      },
+      {
+        "format": "SUPERMERCADO",
+        "cv": 0.14803854324206284,
+        "avg_weekly_gmv": 230815.11037974682
+      },
+      {
+        "format": "HIPERMERCADO",
+        "cv": 0.14329888956376585,
+        "avg_weekly_gmv": 231932.11291139235
+      }
+    ],
+    "peaks": [
+      {
+        "week": "2024-12-01",
+        "gmv": 814299.9099999997,
+        "change": 98167.7999999997,
+        "change_pct": 0.13708057302443777
+      },
+      {
+        "week": "2024-06-30",
+        "gmv": 646271.5999999992,
+        "change": 75638.97999999952,
+        "change_pct": 0.132552849852852
+      },
+      {
+        "week": "2025-03-16",
+        "gmv": 662307.4899999996,
+        "change": 70465.84999999998,
+        "change_pct": 0.11906200111232461
+      }
+    ],
+    "drops": [
+      {
+        "week": "2025-06-29",
+        "gmv": 172452.69,
+        "change": -427692.4000000002,
+        "change_pct": -0.7126483364214478
+      },
+      {
+        "week": "2024-12-29",
+        "gmv": 670730.3899999999,
+        "change": -146191.8300000002,
+        "change_pct": -0.17895440523089234
+      },
+      {
+        "week": "2025-01-05",
+        "gmv": 587942.45,
+        "change": -82787.93999999994,
+        "change_pct": -0.12342953477924261
+      }
+    ]
+  },
+  "pareto": {
+    "DESCUENTO": {
+      "total_gmv": 9001768.209999966,
+      "leaders_80": [
+        {
+          "category": "Electr\u00f3nica",
+          "gmv": 4718807.929999979,
+          "cumulative_pct": 0.5242090020444992
+        },
+        {
+          "category": "Hogar",
+          "gmv": 2091404.6699999897,
+          "cumulative_pct": 0.7565416528315602
+        },
+        {
+          "category": "Ropa",
+          "gmv": 716327.0999999994,
+          "cumulative_pct": 0.8361179186594494
+        }
+      ],
+      "all": [
+        [
+          "Electr\u00f3nica",
+          4718807.929999979
+        ],
+        [
+          "Hogar",
+          2091404.6699999897
+        ],
+        [
+          "Ropa",
+          716327.0999999994
+        ],
+        [
+          "Alimentos",
+          502333.7599999971
+        ],
+        [
+          "Juguetes",
+          471522.03999999946
+        ],
+        [
+          "Cuidado Personal",
+          225205.5200000002
+        ],
+        [
+          "Bebidas",
+          154817.31000000032
+        ],
+        [
+          "Limpieza",
+          121349.88000000012
+        ]
+      ]
+    },
+    "EXPRESS": {
+      "total_gmv": 2188634.620000002,
+      "leaders_80": [
+        {
+          "category": "Electr\u00f3nica",
+          "gmv": 1140046.9100000022,
+          "cumulative_pct": 0.5208941225648717
+        },
+        {
+          "category": "Hogar",
+          "gmv": 523948.39,
+          "cumulative_pct": 0.7602892162968713
+        },
+        {
+          "category": "Ropa",
+          "gmv": 166653.99000000008,
+          "cumulative_pct": 0.8364344021936382
+        }
+      ],
+      "all": [
+        [
+          "Electr\u00f3nica",
+          1140046.9100000022
+        ],
+        [
+          "Hogar",
+          523948.39
+        ],
+        [
+          "Ropa",
+          166653.99000000008
+        ],
+        [
+          "Alimentos",
+          124042.73999999989
+        ],
+        [
+          "Juguetes",
+          114933.0099999997
+        ],
+        [
+          "Cuidado Personal",
+          52147.910000000025
+        ],
+        [
+          "Bebidas",
+          37614.07999999997
+        ],
+        [
+          "Limpieza",
+          29247.59000000005
+        ]
+      ]
+    },
+    "HIPERMERCADO": {
+      "total_gmv": 18333806.40000002,
+      "leaders_80": [
+        {
+          "category": "Electr\u00f3nica",
+          "gmv": 9667363.47000004,
+          "cumulative_pct": 0.5272971285439138
+        },
+        {
+          "category": "Hogar",
+          "gmv": 4252349.489999981,
+          "cumulative_pct": 0.7592374794576212
+        },
+        {
+          "category": "Ropa",
+          "gmv": 1442798.3399999938,
+          "cumulative_pct": 0.8379335400858163
+        }
+      ],
+      "all": [
+        [
+          "Electr\u00f3nica",
+          9667363.47000004
+        ],
+        [
+          "Hogar",
+          4252349.489999981
+        ],
+        [
+          "Ropa",
+          1442798.3399999938
+        ],
+        [
+          "Alimentos",
+          1016351.1800000007
+        ],
+        [
+          "Juguetes",
+          949981.3800000016
+        ],
+        [
+          "Cuidado Personal",
+          449687.69000000076
+        ],
+        [
+          "Bebidas",
+          309879.03000000305
+        ],
+        [
+          "Limpieza",
+          245395.8199999986
+        ]
+      ]
+    },
+    "SUPERMERCADO": {
+      "total_gmv": 18247765.850000057,
+      "leaders_80": [
+        {
+          "category": "Electr\u00f3nica",
+          "gmv": 9584964.610000035,
+          "cumulative_pct": 0.525267843131602
+        },
+        {
+          "category": "Hogar",
+          "gmv": 4265869.720000041,
+          "cumulative_pct": 0.7590427476906733
+        },
+        {
+          "category": "Ropa",
+          "gmv": 1443776.92999999,
+          "cumulative_pct": 0.8381634982454589
+        }
+      ],
+      "all": [
+        [
+          "Electr\u00f3nica",
+          9584964.610000035
+        ],
+        [
+          "Hogar",
+          4265869.720000041
+        ],
+        [
+          "Ropa",
+          1443776.92999999
+        ],
+        [
+          "Alimentos",
+          1025172.0699999994
+        ],
+        [
+          "Juguetes",
+          932347.3699999951
+        ],
+        [
+          "Cuidado Personal",
+          442261.779999998
+        ],
+        [
+          "Bebidas",
+          308122.5900000005
+        ],
+        [
+          "Limpieza",
+          245250.77999999895
+        ]
+      ]
+    }
+  },
+  "cohorts": {
+    "rows": [
+      {
+        "cohort_month": "2024-01-01",
+        "cohort_customers": 2046,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 288.1745239485987,
+        "m1_retention": 0.6344086021505376,
+        "m1_avg_ticket": 286.05291403593986,
+        "m2_retention": 0.6739980449657869,
+        "m2_avg_ticket": 293.58262634631325,
+        "m3_retention": 0.658357771260997,
+        "m3_avg_ticket": 282.9072608695649,
+        "m6_retention": 0.7497556207233627,
+        "m6_avg_ticket": 276.3738205749907
+      },
+      {
+        "cohort_month": "2024-02-01",
+        "cohort_customers": 616,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 270.8506295149638,
+        "m1_retention": 0.6866883116883117,
+        "m1_avg_ticket": 298.67083670715283,
+        "m2_retention": 0.6785714285714286,
+        "m2_avg_ticket": 281.6292576419214,
+        "m3_retention": 0.7159090909090909,
+        "m3_avg_ticket": 281.8728221649484,
+        "m6_retention": 0.7094155844155844,
+        "m6_avg_ticket": 266.1654967741935
+      },
+      {
+        "cohort_month": "2024-03-01",
+        "cohort_customers": 222,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 290.0840979381445,
+        "m1_retention": 0.6666666666666666,
+        "m1_avg_ticket": 288.9831889763778,
+        "m2_retention": 0.6891891891891891,
+        "m2_avg_ticket": 253.79862453531592,
+        "m3_retention": 0.7792792792792793,
+        "m3_avg_ticket": 285.1086333333333,
+        "m6_retention": 0.7477477477477478,
+        "m6_avg_ticket": 260.14457446808507
+      },
+      {
+        "cohort_month": "2024-04-01",
+        "cohort_customers": 68,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 307.93232000000006,
+        "m1_retention": 0.7794117647058824,
+        "m1_avg_ticket": 314.98387755102044,
+        "m2_retention": 0.6617647058823529,
+        "m2_avg_ticket": 261.9583561643836,
+        "m3_retention": 0.7647058823529411,
+        "m3_avg_ticket": 261.1619417475728,
+        "m6_retention": 0.8235294117647058,
+        "m6_avg_ticket": 295.0358947368419
+      },
+      {
+        "cohort_month": "2024-05-01",
+        "cohort_customers": 31,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 300.93673469387755,
+        "m1_retention": 0.7096774193548387,
+        "m1_avg_ticket": 340.47117647058826,
+        "m2_retention": 0.7741935483870968,
+        "m2_avg_ticket": 250.90959183673473,
+        "m3_retention": 0.7419354838709677,
+        "m3_avg_ticket": 257.3305714285715,
+        "m6_retention": 0.7096774193548387,
+        "m6_avg_ticket": 223.9322727272728
+      },
+      {
+        "cohort_month": "2024-06-01",
+        "cohort_customers": 14,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 145.72750000000002,
+        "m1_retention": 0.7857142857142857,
+        "m1_avg_ticket": 113.02105263157893,
+        "m2_retention": 0.5714285714285714,
+        "m2_avg_ticket": 386.79111111111115,
+        "m3_retention": 0.6428571428571429,
+        "m3_avg_ticket": 282.7993333333333,
+        "m6_retention": 0.8571428571428571,
+        "m6_avg_ticket": 291.80125000000004
+      },
+      {
+        "cohort_month": "2024-07-01",
+        "cohort_customers": 1,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 115.3,
+        "m1_retention": 1.0,
+        "m1_avg_ticket": 83.85,
+        "m2_retention": 1.0,
+        "m2_avg_ticket": 122.33,
+        "m3_retention": 1.0,
+        "m3_avg_ticket": 77.96,
+        "m6_retention": 1.0,
+        "m6_avg_ticket": 102.44
+      },
+      {
+        "cohort_month": "2024-08-01",
+        "cohort_customers": 2,
+        "m0_retention": 1.0,
+        "m0_avg_ticket": 214.78,
+        "m1_retention": 1.0,
+        "m1_avg_ticket": 287.77250000000004,
+        "m2_retention": 0.5,
+        "m2_avg_ticket": 923.99,
+        "m3_retention": 0.5,
+        "m3_avg_ticket": 803.36,
+        "m6_retention": 0.0,
+        "m6_avg_ticket": null
+      }
+    ],
+    "old_m3_avg": 0.687133431085044,
+    "recent_m3_avg": 0.75,
+    "largest_drop": {
+      "cohort_month": "2024-08-01",
+      "month": 2,
+      "drop_pp": 0.5
+    }
+  },
+  "stockouts": {
+    "total_gaps": 315383,
+    "total_lost_gmv": 47958315.34607143,
+    "top_gaps": [
+      {
+        "store_id": "TIENDA_027",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-12-08",
+        "gap_end": "2025-02-04",
+        "duration_days": 59,
+        "avg_daily_gmv_before": 237.54500000000002,
+        "estimated_lost_gmv": 14015.155
+      },
+      {
+        "store_id": "TIENDA_029",
+        "item_id": "ITEM_091",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "gap_start": "2024-12-26",
+        "gap_end": "2025-03-10",
+        "duration_days": 75,
+        "avg_daily_gmv_before": 178.92535714285717,
+        "estimated_lost_gmv": 13419.401785714288
+      },
+      {
+        "store_id": "TIENDA_036",
+        "item_id": "ITEM_096",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_027",
+        "vendor_name": "Proveedor Z1",
+        "gap_start": "2024-08-13",
+        "gap_end": "2024-11-27",
+        "duration_days": 107,
+        "avg_daily_gmv_before": 125.15964285714286,
+        "estimated_lost_gmv": 13392.081785714285
+      },
+      {
+        "store_id": "TIENDA_022",
+        "item_id": "ITEM_069",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_020",
+        "vendor_name": "Proveedor T",
+        "gap_start": "2024-12-28",
+        "gap_end": "2025-02-09",
+        "duration_days": 44,
+        "avg_daily_gmv_before": 296.6107142857143,
+        "estimated_lost_gmv": 13050.87142857143
+      },
+      {
+        "store_id": "TIENDA_019",
+        "item_id": "ITEM_091",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "gap_start": "2024-04-21",
+        "gap_end": "2024-05-18",
+        "duration_days": 28,
+        "avg_daily_gmv_before": 438.77142857142866,
+        "estimated_lost_gmv": 12285.600000000002
+      },
+      {
+        "store_id": "TIENDA_007",
+        "item_id": "ITEM_069",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_020",
+        "vendor_name": "Proveedor T",
+        "gap_start": "2024-05-15",
+        "gap_end": "2024-06-23",
+        "duration_days": 40,
+        "avg_daily_gmv_before": 287.18071428571426,
+        "estimated_lost_gmv": 11487.22857142857
+      },
+      {
+        "store_id": "TIENDA_033",
+        "item_id": "ITEM_069",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_020",
+        "vendor_name": "Proveedor T",
+        "gap_start": "2025-01-10",
+        "gap_end": "2025-02-26",
+        "duration_days": 48,
+        "avg_daily_gmv_before": 232.6542857142857,
+        "estimated_lost_gmv": 11167.405714285713
+      },
+      {
+        "store_id": "TIENDA_016",
+        "item_id": "ITEM_007",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_019",
+        "vendor_name": "Proveedor S",
+        "gap_start": "2025-03-23",
+        "gap_end": "2025-05-11",
+        "duration_days": 50,
+        "avg_daily_gmv_before": 219.69428571428574,
+        "estimated_lost_gmv": 10984.714285714286
+      },
+      {
+        "store_id": "TIENDA_024",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-10-06",
+        "gap_end": "2024-12-18",
+        "duration_days": 74,
+        "avg_daily_gmv_before": 145.41428571428574,
+        "estimated_lost_gmv": 10760.657142857144
+      },
+      {
+        "store_id": "TIENDA_021",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-06-24",
+        "gap_end": "2024-08-23",
+        "duration_days": 61,
+        "avg_daily_gmv_before": 171.14857142857142,
+        "estimated_lost_gmv": 10440.062857142857
+      },
+      {
+        "store_id": "TIENDA_008",
+        "item_id": "ITEM_130",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_026",
+        "vendor_name": "Proveedor Z",
+        "gap_start": "2024-12-22",
+        "gap_end": "2025-01-29",
+        "duration_days": 39,
+        "avg_daily_gmv_before": 266.6996428571428,
+        "estimated_lost_gmv": 10401.286071428569
+      },
+      {
+        "store_id": "TIENDA_012",
+        "item_id": "ITEM_071",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_016",
+        "vendor_name": "Proveedor P",
+        "gap_start": "2025-04-21",
+        "gap_end": "2025-05-31",
+        "duration_days": 41,
+        "avg_daily_gmv_before": 253.09071428571428,
+        "estimated_lost_gmv": 10376.719285714285
+      },
+      {
+        "store_id": "TIENDA_026",
+        "item_id": "ITEM_141",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_004",
+        "vendor_name": "Proveedor D",
+        "gap_start": "2025-02-13",
+        "gap_end": "2025-04-11",
+        "duration_days": 58,
+        "avg_daily_gmv_before": 178.3975,
+        "estimated_lost_gmv": 10347.055
+      },
+      {
+        "store_id": "TIENDA_040",
+        "item_id": "ITEM_071",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_016",
+        "vendor_name": "Proveedor P",
+        "gap_start": "2024-03-23",
+        "gap_end": "2024-05-17",
+        "duration_days": 56,
+        "avg_daily_gmv_before": 184.0125,
+        "estimated_lost_gmv": 10304.699999999999
+      },
+      {
+        "store_id": "TIENDA_037",
+        "item_id": "ITEM_091",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "gap_start": "2025-04-02",
+        "gap_end": "2025-06-25",
+        "duration_days": 85,
+        "avg_daily_gmv_before": 120.07000000000001,
+        "estimated_lost_gmv": 10205.95
+      },
+      {
+        "store_id": "TIENDA_013",
+        "item_id": "ITEM_071",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_016",
+        "vendor_name": "Proveedor P",
+        "gap_start": "2025-01-30",
+        "gap_end": "2025-03-03",
+        "duration_days": 33,
+        "avg_daily_gmv_before": 307.5378571428572,
+        "estimated_lost_gmv": 10148.749285714288
+      },
+      {
+        "store_id": "TIENDA_008",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-05-11",
+        "gap_end": "2024-06-17",
+        "duration_days": 38,
+        "avg_daily_gmv_before": 266.9975,
+        "estimated_lost_gmv": 10145.905
+      },
+      {
+        "store_id": "TIENDA_025",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-09-12",
+        "gap_end": "2024-10-31",
+        "duration_days": 50,
+        "avg_daily_gmv_before": 202.4639285714286,
+        "estimated_lost_gmv": 10123.19642857143
+      },
+      {
+        "store_id": "TIENDA_024",
+        "item_id": "ITEM_141",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_004",
+        "vendor_name": "Proveedor D",
+        "gap_start": "2025-03-28",
+        "gap_end": "2025-06-03",
+        "duration_days": 68,
+        "avg_daily_gmv_before": 143.62214285714285,
+        "estimated_lost_gmv": 9766.305714285714
+      },
+      {
+        "store_id": "TIENDA_012",
+        "item_id": "ITEM_168",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_003",
+        "vendor_name": "Proveedor C",
+        "gap_start": "2024-02-15",
+        "gap_end": "2024-04-11",
+        "duration_days": 57,
+        "avg_daily_gmv_before": 165.54500000000002,
+        "estimated_lost_gmv": 9436.065
+      },
+      {
+        "store_id": "TIENDA_016",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-03-17",
+        "gap_end": "2024-05-01",
+        "duration_days": 46,
+        "avg_daily_gmv_before": 203.0925,
+        "estimated_lost_gmv": 9342.255
+      },
+      {
+        "store_id": "TIENDA_013",
+        "item_id": "ITEM_007",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_019",
+        "vendor_name": "Proveedor S",
+        "gap_start": "2025-04-24",
+        "gap_end": "2025-06-08",
+        "duration_days": 46,
+        "avg_daily_gmv_before": 200.61357142857142,
+        "estimated_lost_gmv": 9228.224285714285
+      },
+      {
+        "store_id": "TIENDA_015",
+        "item_id": "ITEM_141",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_004",
+        "vendor_name": "Proveedor D",
+        "gap_start": "2024-08-30",
+        "gap_end": "2024-10-17",
+        "duration_days": 49,
+        "avg_daily_gmv_before": 187.1964285714286,
+        "estimated_lost_gmv": 9172.625000000002
+      },
+      {
+        "store_id": "TIENDA_005",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-03-22",
+        "gap_end": "2024-04-20",
+        "duration_days": 30,
+        "avg_daily_gmv_before": 304.0046428571428,
+        "estimated_lost_gmv": 9120.139285714284
+      },
+      {
+        "store_id": "TIENDA_031",
+        "item_id": "ITEM_168",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_003",
+        "vendor_name": "Proveedor C",
+        "gap_start": "2024-04-15",
+        "gap_end": "2024-06-05",
+        "duration_days": 52,
+        "avg_daily_gmv_before": 175.21035714285716,
+        "estimated_lost_gmv": 9110.938571428573
+      },
+      {
+        "store_id": "TIENDA_030",
+        "item_id": "ITEM_091",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "gap_start": "2024-06-19",
+        "gap_end": "2024-08-14",
+        "duration_days": 57,
+        "avg_daily_gmv_before": 159.79892857142858,
+        "estimated_lost_gmv": 9108.538928571428
+      },
+      {
+        "store_id": "TIENDA_039",
+        "item_id": "ITEM_069",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_020",
+        "vendor_name": "Proveedor T",
+        "gap_start": "2024-07-04",
+        "gap_end": "2024-09-09",
+        "duration_days": 68,
+        "avg_daily_gmv_before": 127.44892857142858,
+        "estimated_lost_gmv": 8666.527142857143
+      },
+      {
+        "store_id": "TIENDA_018",
+        "item_id": "ITEM_096",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_027",
+        "vendor_name": "Proveedor Z1",
+        "gap_start": "2025-04-11",
+        "gap_end": "2025-05-20",
+        "duration_days": 40,
+        "avg_daily_gmv_before": 216.16857142857143,
+        "estimated_lost_gmv": 8646.742857142857
+      },
+      {
+        "store_id": "TIENDA_025",
+        "item_id": "ITEM_141",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_004",
+        "vendor_name": "Proveedor D",
+        "gap_start": "2024-08-10",
+        "gap_end": "2024-10-23",
+        "duration_days": 75,
+        "avg_daily_gmv_before": 112.57285714285715,
+        "estimated_lost_gmv": 8442.964285714286
+      },
+      {
+        "store_id": "TIENDA_021",
+        "item_id": "ITEM_069",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_020",
+        "vendor_name": "Proveedor T",
+        "gap_start": "2024-02-15",
+        "gap_end": "2024-03-22",
+        "duration_days": 37,
+        "avg_daily_gmv_before": 224.9725,
+        "estimated_lost_gmv": 8323.9825
+      },
+      {
+        "store_id": "TIENDA_025",
+        "item_id": "ITEM_062",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_029",
+        "vendor_name": "Proveedor Z3",
+        "gap_start": "2024-07-19",
+        "gap_end": "2024-08-29",
+        "duration_days": 42,
+        "avg_daily_gmv_before": 193.1175,
+        "estimated_lost_gmv": 8110.935
+      },
+      {
+        "store_id": "TIENDA_008",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-02-09",
+        "gap_end": "2024-03-09",
+        "duration_days": 30,
+        "avg_daily_gmv_before": 270.22535714285715,
+        "estimated_lost_gmv": 8106.760714285714
+      },
+      {
+        "store_id": "TIENDA_040",
+        "item_id": "ITEM_007",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_019",
+        "vendor_name": "Proveedor S",
+        "gap_start": "2025-02-22",
+        "gap_end": "2025-05-11",
+        "duration_days": 79,
+        "avg_daily_gmv_before": 102.24928571428572,
+        "estimated_lost_gmv": 8077.693571428572
+      },
+      {
+        "store_id": "TIENDA_019",
+        "item_id": "ITEM_091",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "gap_start": "2025-03-14",
+        "gap_end": "2025-04-18",
+        "duration_days": 36,
+        "avg_daily_gmv_before": 217.39499999999998,
+        "estimated_lost_gmv": 7826.219999999999
+      },
+      {
+        "store_id": "TIENDA_001",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-05-03",
+        "gap_end": "2024-05-23",
+        "duration_days": 21,
+        "avg_daily_gmv_before": 371.22142857142853,
+        "estimated_lost_gmv": 7795.65
+      },
+      {
+        "store_id": "TIENDA_017",
+        "item_id": "ITEM_091",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "gap_start": "2024-12-28",
+        "gap_end": "2025-02-08",
+        "duration_days": 43,
+        "avg_daily_gmv_before": 179.14285714285714,
+        "estimated_lost_gmv": 7703.142857142857
+      },
+      {
+        "store_id": "TIENDA_024",
+        "item_id": "ITEM_142",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_027",
+        "vendor_name": "Proveedor Z1",
+        "gap_start": "2024-08-01",
+        "gap_end": "2024-11-16",
+        "duration_days": 108,
+        "avg_daily_gmv_before": 71.29964285714286,
+        "estimated_lost_gmv": 7700.361428571428
+      },
+      {
+        "store_id": "TIENDA_014",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2025-02-03",
+        "gap_end": "2025-03-19",
+        "duration_days": 45,
+        "avg_daily_gmv_before": 169.25464285714284,
+        "estimated_lost_gmv": 7616.458928571428
+      },
+      {
+        "store_id": "TIENDA_034",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2025-01-17",
+        "gap_end": "2025-03-06",
+        "duration_days": 49,
+        "avg_daily_gmv_before": 155.23321428571427,
+        "estimated_lost_gmv": 7606.427499999999
+      },
+      {
+        "store_id": "TIENDA_032",
+        "item_id": "ITEM_141",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_004",
+        "vendor_name": "Proveedor D",
+        "gap_start": "2024-12-30",
+        "gap_end": "2025-04-01",
+        "duration_days": 93,
+        "avg_daily_gmv_before": 81.08464285714285,
+        "estimated_lost_gmv": 7540.871785714286
+      },
+      {
+        "store_id": "TIENDA_020",
+        "item_id": "ITEM_069",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_020",
+        "vendor_name": "Proveedor T",
+        "gap_start": "2024-03-29",
+        "gap_end": "2024-05-07",
+        "duration_days": 40,
+        "avg_daily_gmv_before": 187.58285714285714,
+        "estimated_lost_gmv": 7503.314285714286
+      },
+      {
+        "store_id": "TIENDA_039",
+        "item_id": "ITEM_130",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_026",
+        "vendor_name": "Proveedor Z",
+        "gap_start": "2024-02-09",
+        "gap_end": "2024-04-24",
+        "duration_days": 76,
+        "avg_daily_gmv_before": 98.65428571428572,
+        "estimated_lost_gmv": 7497.725714285714
+      },
+      {
+        "store_id": "TIENDA_021",
+        "item_id": "ITEM_071",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_016",
+        "vendor_name": "Proveedor P",
+        "gap_start": "2025-01-13",
+        "gap_end": "2025-02-17",
+        "duration_days": 36,
+        "avg_daily_gmv_before": 208.1875,
+        "estimated_lost_gmv": 7494.75
+      },
+      {
+        "store_id": "TIENDA_036",
+        "item_id": "ITEM_118",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_011",
+        "vendor_name": "Proveedor K",
+        "gap_start": "2024-07-07",
+        "gap_end": "2024-10-19",
+        "duration_days": 105,
+        "avg_daily_gmv_before": 71.19642857142857,
+        "estimated_lost_gmv": 7475.625
+      },
+      {
+        "store_id": "TIENDA_040",
+        "item_id": "ITEM_062",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_029",
+        "vendor_name": "Proveedor Z3",
+        "gap_start": "2025-02-17",
+        "gap_end": "2025-05-03",
+        "duration_days": 76,
+        "avg_daily_gmv_before": 97.8625,
+        "estimated_lost_gmv": 7437.55
+      },
+      {
+        "store_id": "TIENDA_031",
+        "item_id": "ITEM_071",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_016",
+        "vendor_name": "Proveedor P",
+        "gap_start": "2024-03-31",
+        "gap_end": "2024-05-15",
+        "duration_days": 46,
+        "avg_daily_gmv_before": 161.06857142857143,
+        "estimated_lost_gmv": 7409.154285714286
+      },
+      {
+        "store_id": "TIENDA_011",
+        "item_id": "ITEM_123",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "gap_start": "2024-05-26",
+        "gap_end": "2024-06-21",
+        "duration_days": 27,
+        "avg_daily_gmv_before": 274.23535714285714,
+        "estimated_lost_gmv": 7404.354642857143
+      },
+      {
+        "store_id": "TIENDA_008",
+        "item_id": "ITEM_141",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_004",
+        "vendor_name": "Proveedor D",
+        "gap_start": "2024-12-20",
+        "gap_end": "2025-01-10",
+        "duration_days": 22,
+        "avg_daily_gmv_before": 334.21999999999997,
+        "estimated_lost_gmv": 7352.839999999999
+      },
+      {
+        "store_id": "TIENDA_031",
+        "item_id": "ITEM_091",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "gap_start": "2024-12-13",
+        "gap_end": "2025-01-20",
+        "duration_days": 39,
+        "avg_daily_gmv_before": 187.93428571428572,
+        "estimated_lost_gmv": 7329.437142857143
+      },
+      {
+        "store_id": "TIENDA_013",
+        "item_id": "ITEM_062",
+        "category": "Electr\u00f3nica",
+        "vendor_id": "VND_029",
+        "vendor_name": "Proveedor Z3",
+        "gap_start": "2025-02-09",
+        "gap_end": "2025-03-14",
+        "duration_days": 34,
+        "avg_daily_gmv_before": 213.92714285714288,
+        "estimated_lost_gmv": 7273.522857142858
+      }
+    ],
+    "top_categories": [
+      {
+        "category": "Electr\u00f3nica",
+        "count": 31672,
+        "lost": 25196740.726071373
+      },
+      {
+        "category": "Hogar",
+        "count": 62923,
+        "lost": 11182339.666785786
+      },
+      {
+        "category": "Ropa",
+        "count": 33333,
+        "lost": 3783680.377500011
+      },
+      {
+        "category": "Alimentos",
+        "count": 67754,
+        "lost": 2681412.558214294
+      },
+      {
+        "category": "Juguetes",
+        "count": 28578,
+        "lost": 2478272.4192857267
+      },
+      {
+        "category": "Cuidado Personal",
+        "count": 32766,
+        "lost": 1176461.0160714414
+      },
+      {
+        "category": "Bebidas",
+        "count": 36268,
+        "lost": 814870.3878571431
+      },
+      {
+        "category": "Limpieza",
+        "count": 22089,
+        "lost": 644538.1942857119
+      }
+    ],
+    "top_vendors": [
+      {
+        "vendor_id": "VND_020",
+        "vendor_name": "Proveedor T",
+        "count": 15694,
+        "lost": 3911746.6467857016
+      },
+      {
+        "vendor_id": "VND_026",
+        "vendor_name": "Proveedor Z",
+        "count": 9510,
+        "lost": 3595715.2457142826
+      },
+      {
+        "vendor_id": "VND_010",
+        "vendor_name": "Proveedor J",
+        "count": 14237,
+        "lost": 3419002.304642859
+      },
+      {
+        "vendor_id": "VND_003",
+        "vendor_name": "Proveedor C",
+        "count": 11066,
+        "lost": 3413599.110357154
+      },
+      {
+        "vendor_id": "VND_027",
+        "vendor_name": "Proveedor Z1",
+        "count": 14139,
+        "lost": 3352450.4696428548
+      },
+      {
+        "vendor_id": "VND_004",
+        "vendor_name": "Proveedor D",
+        "count": 12606,
+        "lost": 3055960.468214286
+      },
+      {
+        "vendor_id": "VND_016",
+        "vendor_name": "Proveedor P",
+        "count": 17400,
+        "lost": 2876787.5910714413
+      },
+      {
+        "vendor_id": "VND_011",
+        "vendor_name": "Proveedor K",
+        "count": 9501,
+        "lost": 2846895.513214294
+      },
+      {
+        "vendor_id": "VND_021",
+        "vendor_name": "Proveedor U",
+        "count": 7808,
+        "lost": 2602205.5757142967
+      },
+      {
+        "vendor_id": "VND_019",
+        "vendor_name": "Proveedor S",
+        "count": 11042,
+        "lost": 2268881.4246428492
+      }
+    ]
+  },
+  "ab_test": {
+    "conflict_stores_assumed_control": [
+      "TIENDA_008",
+      "TIENDA_037"
+    ],
+    "pre_summary": {
+      "CONTROL": {
+        "stores": 20,
+        "avg_weekly_base_gmv": 17647.194416666665,
+        "avg_size_sqm": 3046.45,
+        "formats": {
+          "HIPERMERCADO": 6,
+          "EXPRESS": 2,
+          "SUPERMERCADO": 8,
+          "DESCUENTO": 4
+        }
+      },
+      "TREATMENT": {
+        "stores": 20,
+        "avg_weekly_base_gmv": 12999.265166666666,
+        "avg_size_sqm": 1812.7,
+        "formats": {
+          "DESCUENTO": 8,
+          "EXPRESS": 3,
+          "SUPERMERCADO": 7,
+          "HIPERMERCADO": 2
+        }
+      }
+    },
+    "gmv_ttest": {
+      "diff": -2955.021499999999,
+      "t": -1.235126527321269,
+      "df": 37.75469846038748,
+      "p_value": 0.22441475828049695,
+      "ci_low": -7739.991192795476,
+      "ci_high": 1829.9481927954785,
+      "lift_relative": -0.17779652176477573
+    },
+    "avg_weekly_gmv": {
+      "TREATMENT": 13665.222083333334,
+      "CONTROL": 16620.243583333333
+    },
+    "avg_weekly_transactions": {
+      "TREATMENT": 49.75,
+      "CONTROL": 59.40833333333333
+    },
+    "avg_ticket": {
+      "TREATMENT": 273.52029746647133,
+      "CONTROL": 279.5715143449733
+    }
+  },
+  "free_finding": {
+    "title": "Promociones muestran descuento impl\u00edcito desigual por categor\u00eda",
+    "rows": [
+      {
+        "category": "Hogar",
+        "promo_avg_unit_price": 54.45487193986166,
+        "non_promo_avg_unit_price": 68.13736618546,
+        "discount_proxy_pct": -0.20080750125205274,
+        "promo_gmv": 1637131.270000001
+      },
+      {
+        "category": "Cuidado Personal",
+        "promo_avg_unit_price": 10.893418154196757,
+        "non_promo_avg_unit_price": 13.630517769272817,
+        "discount_proxy_pct": -0.20080672366285932,
+        "promo_gmv": 172094.22000000038
+      },
+      {
+        "category": "Limpieza",
+        "promo_avg_unit_price": 8.89817149138878,
+        "non_promo_avg_unit_price": 11.112937175768995,
+        "discount_proxy_pct": -0.19929615810385043,
+        "promo_gmv": 97132.43999999993
+      },
+      {
+        "category": "Ropa",
+        "promo_avg_unit_price": 34.910356942277616,
+        "non_promo_avg_unit_price": 43.557143109133314,
+        "discount_proxy_pct": -0.19851591609649416,
+        "promo_gmv": 559438.4699999988
+      },
+      {
+        "category": "Juguetes",
+        "promo_avg_unit_price": 26.80840612304129,
+        "non_promo_avg_unit_price": 33.30461876507202,
+        "discount_proxy_pct": -0.1950544063528986,
+        "promo_gmv": 369527.0700000012
+      },
+      {
+        "category": "Bebidas",
+        "promo_avg_unit_price": 6.908563497571127,
+        "non_promo_avg_unit_price": 8.582200541534341,
+        "discount_proxy_pct": -0.19501257700324,
+        "promo_gmv": 119462.87999999993
+      },
+      {
+        "category": "Alimentos",
+        "promo_avg_unit_price": 12.207520826999138,
+        "non_promo_avg_unit_price": 15.151214292877107,
+        "discount_proxy_pct": -0.19428762665325502,
+        "promo_gmv": 401505.3600000017
+      },
+      {
+        "category": "Electr\u00f3nica",
+        "promo_avg_unit_price": 248.08787945703656,
+        "non_promo_avg_unit_price": 306.99118794607455,
+        "discount_proxy_pct": -0.1918729618368877,
+        "promo_gmv": 3819809.079999992
+      }
+    ]
+  },
+  "visualizations": [
+    "bloque3_visualizaciones\\01_gmv_semanal_por_formato.svg",
+    "bloque3_visualizaciones\\02_pareto_descuento.svg",
+    "bloque3_visualizaciones\\02_pareto_express.svg",
+    "bloque3_visualizaciones\\02_pareto_hipermercado.svg",
+    "bloque3_visualizaciones\\02_pareto_supermercado.svg",
+    "bloque3_visualizaciones\\03_retencion_cohortes.svg",
+    "bloque3_visualizaciones\\04_quiebres_categoria_gmv_perdido.svg",
+    "bloque3_visualizaciones\\05_ab_gmv_promedio_semanal.svg",
+    "bloque3_visualizaciones\\06_hallazgo_descuento_promo.svg"
+  ]
+}
